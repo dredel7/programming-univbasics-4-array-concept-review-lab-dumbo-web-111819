@@ -7,10 +7,7 @@ end
    
 def find_max_value(array)
   # Add your solution here
-  length= array.length
   
-  length.times do array.sort()
-    puts array.first()
 end
  
    
